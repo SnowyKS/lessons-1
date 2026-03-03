@@ -1,3 +1,4 @@
+//Урок 2
 let title = "project"
 let screens = "Простые, Сложные, Интерактивные"
 let screenPrice = 1000
